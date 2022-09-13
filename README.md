@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lord_a_s_i_f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Lord_a_s_i_f" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:18018268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="http://meta.stackoverflow.com/users/18018268/LoRD" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/user:18018268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:18018268" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/lord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lord" height="30" width="40" /></a>
 </p>
 
