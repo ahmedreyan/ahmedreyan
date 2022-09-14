@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **discord bot**
 
-- ⚡ Fun fact [The first computer virus was a Creeper.](The first computer virus was a Creeper.)
+- ⚡ Fun fact [The first computer virus was a Creeper.]
 
 - 💬 Ask me about **Anything**
 
