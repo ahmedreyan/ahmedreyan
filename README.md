@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Website<br><br>I’m currently learning typescript,C#,python<br><br>I’m looking to collaborate on Bot development<br><br>I’m looking for help with discord bot<br><br>Fun fact [The first computer virus was a Creeper.]<br><br>Ask me about Anything<br><br>How to reach me Discord:-Lord_#3241
+I’m currently working on Website<br><br>I’m currently learning typescript,python<br><br>I’m looking to collaborate on Bot development<br><br>I’m looking for help with discord bot<br><br>Fun fact [The first computer virus was a Creeper.]<br><br>Ask me about Anything<br><br>How to reach me Discord:-Lord_#3241
 
 
 ## 🌐 Socials:
