@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Website<br><br>I’m currently learning typescript,python<br><br>I’m looking to collaborate on Bot development<br><br>I’m looking for help with discord bot<br><br>Fun fact [The first computer virus was a Creeper.]<br><br>Ask me about Anything<br><br>How to reach me Discord:-Lord_#3241
+Co-founder and software developer at PixlBuilders. I'm a tech enthusiast. Gaming and coding are my passions. I am Learning UI/UX. Feel free to DM me.Contact me on discord : Tony Stark#2731
 
 
 ## 🌐 Socials:
@@ -18,6 +18,5 @@ I’m currently working on Website<br><br>I’m currently learning typescript,py
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
