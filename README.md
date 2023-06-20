@@ -1,5 +1,5 @@
 # 💫 About Me:
-Co-founder and software developer at PixlBuilders. I'm a tech enthusiast. Gaming and coding are my passions. I am a UI/UX Designer. Feel free to DM me. Contact me on discord: Tony Stark#2731(I will be updating this as soon as the new usernames are out!)
+Co-founder and software developer at PixlBuilders. I'm a tech enthusiast. Gaming and coding are my passions. I am a UI/UX Designer. Feel free to DM me. Contact me on discord: Tony Stark#2731(I will be updating this as soon as the new usernames are out!).
 
 
 ## 🌐 Socials:
