@@ -1,5 +1,5 @@
 # 💫 About Me:
-Co-founder and software developer at PixlBuilders.I am a UI/UX Designer.Gaming and coding are my passions. I was a boy with full of loss time and lost cost. Feel free to DM me. Contact me on discord: "lordreyan"
+Co-founder and software developer at PixlBuilders.I am a UI/UX Designer.Gaming and coding are my passions.But I don't do gaming any more tbh, but i am starting it soon. I am a boy of time rich cash poor. Feel free to DM me. I will try to reply you for any queries. Contact me on discord: "lordreyan"
 
 
 ## 🌐 Socials:
