@@ -2,6 +2,7 @@
 
 </p> 
 <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
   <a href="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=1F1F1F&vCenter=true&multiline=true&width=435&lines=I+am+a+Student+of+Computer+Science;Co-founder+and+software+developer+at+PixlBuilders;I+am+a+UI%2FUX+Designer.)](https://git.io/typing-svg)"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
