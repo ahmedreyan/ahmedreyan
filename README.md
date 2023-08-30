@@ -2,9 +2,10 @@
 
 </p> 
 <p align="center">
-  <a href="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=1F1F1F&vCenter=true&multiline=true&width=435&lines=I+am+a+Student+of+Computer+Science;Co-founder+and+software+developer+at+PixlBuilders;I+am+a+UI%2FUX+Designer.)](https://git.io/typing-svg)"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=1F1F1F&vCenter=true&multiline=true&width=435&lines=I+am+a+Student+of+Computer+Science;Co-founder+and+software+developer+at+PixlBuilders;I+am+a+UI%2FUX+Designer.)](https://git.io/typing-svg)"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-Co-founder and software developer at PixlBuilders.I am a UI/UX Designer.Gaming and coding are my passions.But I don't do gaming any more tbh, but i am starting it soon. I am a boy of time rich cash poor. Feel free to DM me. I will try to reply you for any queries. Contact me on discord: "lordreyan"
+Co-founder and software developer at PixlBuilders.I am a UI/UX Designer. Gaming and coding are my passions. But I don't do gaming anymore tbh, but I am starting it soon. I am a boy of time rich cash poor. Feel free to DM me. I will try to reply to you with any queries. Contact me on discord: "lordreyan"
 
 
 ## 🌐 Socials:
