@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a co-founder and software developer at PixlBuilders, I specialize in UI/UX design, and my passions revolve around gaming and coding. While I've taken a break from gaming, I plan to resume it soon. Additionally, I am currently engaged in learning artificial intelligence and machine learning. Feel free to reach out to me via DM, and I'll make an effort to respond to any queries. You can also contact me on Discord with the username "lordreyan."
+As a co-founder and software developer at PixlBuilders, My passions revolve around gaming and coding. While I've taken a break from gaming, I plan to resume it soon. Additionally, I am currently engaged in learning artificial intelligence and machine learning. Feel free to reach out to me via DM, and I'll make an effort to respond to any queries. You can also contact me on Discord with the username "lordreyan."
 <img align="center" src="https://komarev.com/ghpvc/?username=lordreyan&style=flat-square&color=blue" alt="Profile Count">
 
 ## 🌐 Socials:
