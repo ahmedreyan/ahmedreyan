@@ -3,7 +3,7 @@ As a co-founder and software developer at PixlBuilders, My passions revolve arou
 <img align="center" src="https://komarev.com/ghpvc/?username=lordreyan&style=flat-square&color=blue" alt="Profile Count">
 
 ## 🌐 Socials:
-[![Discord Presence](https://lanyard.cnrad.dev/api/879714530769391686)](https://discord.com/users/879714530769391686)
+[![Discord Presence](https://lanyard.cnrad.dev/api/879714530769391686)](https://discord.com/users/879714530769391686)<br>
  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/LoRD) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Fit_Illustrator9737) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18018268) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/lord_8005) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ahmed_reyan11) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UC9br4W-v98IhaHrAAslvMug) 
 
 
